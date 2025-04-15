@@ -16,7 +16,7 @@
 | RF02   |      Articulos     |  
 |----------|:-------------:|
 | Prioridad:| 3 |
-| Descripción |.|
+| Descripción |..|
 
 ***
 <br>
