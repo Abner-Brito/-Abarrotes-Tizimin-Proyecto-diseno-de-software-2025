@@ -1,1 +1,1 @@
-# -Abarrotes-Tizimin-Proyecto-diseno-de-software-2025
+# -Abarrotes-Tizimin-Proyecto-diseño-de-software-2025
