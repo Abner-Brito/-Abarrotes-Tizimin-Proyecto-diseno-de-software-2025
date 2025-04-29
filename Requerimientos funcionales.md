@@ -25,7 +25,6 @@ Del 1 al 3, siendo el 3 el más alto y el 1 el más bajo.
 |--------|--------------------------------|-----------|----------------------------------------------------------------------------------------------|
 | RNF01  | Rendimiento                    | 3         | El sistema debe mostrar el menú principal y las vistas de registro en menos de 2 segundos.  |
 | RNF02  | Usabilidad                     | 2         | La interfaz debe ser sencilla e intuitiva para usuarios sin experiencia técnica.             |
-| RNF03  | Disponibilidad                 | 2         | El sistema debe estar disponible para su uso durante el horario de atención (por ejemplo, 8:00 a.m. a 8:00 p.m.). |
 | RNF04  | Seguridad                      | 2         | Los datos registrados de clientes y artículos deben estar protegidos contra accesos no autorizados. |
 | RNF05  | Mantenibilidad                 | 1         | El sistema debe estar desarrollado de forma modular para facilitar futuras modificaciones.   |
 | RNF06  | Integridad de datos            | 3         | No debe permitirse el registro de artículos o clientes con campos vacíos o identificadores duplicados. |
